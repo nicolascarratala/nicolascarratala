@@ -26,3 +26,4 @@ I've been working on (Android, IOS, React.js, Node.js, Unity3d, mongodb, Linux, 
 </picture>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolascarratala&theme=buefy-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![](https://raw.githubusercontent.com/jasonlong/jasonlong/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://twitter.com/nicolascarratala)
