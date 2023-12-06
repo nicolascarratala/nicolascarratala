@@ -16,11 +16,11 @@ I've been working on (Android, IOS, React.js, Node.js, Unity3d, mongodb, Linux, 
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nicolascarratala&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: midnight-purple)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=nicolascarratala&show_icons=true"
-    media="(prefers-color-scheme: midnight-purple), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nicolascarratala&show_icons=true" />
 </picture>
