@@ -15,7 +15,7 @@ I've been working on (Android, IOS, React.js, Node.js, Unity3d, mongodb, Linux, 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=nicolascarratala&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=nicolascarratala&show_icons=true&theme=midnight-purple"
     media="(prefers-color-scheme: midnight-purple)"
   />
   <source
