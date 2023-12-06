@@ -24,3 +24,5 @@ I've been working on (Android, IOS, React.js, Node.js, Unity3d, mongodb, Linux, 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=nicolascarratala&show_icons=true" />
 </picture>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nicolascarratala&theme=buefy-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
