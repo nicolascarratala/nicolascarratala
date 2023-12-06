@@ -14,8 +14,8 @@ I've been working on (Android, IOS, React.js, Node.js, Unity3d, mongodb, Linux, 
 
 
 [<kbd> <br> Github - Skyline <br> </kbd>][Link]
-
-[Link]:https://skyline.github.com/nicolascarratala/2023 # 'Link with example title.'
+https://skyline.github.com/nicolascarratala/2023
+[Link]: # 'Link with example title.'
 
 <picture>
   <source
