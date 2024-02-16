@@ -8,7 +8,7 @@ I've been working on (Android, IOS, React.js, Node.js, Unity3d, mongodb, Linux, 
 
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [nicolas.carratala@icloud.com](mailto:nicolas.carratala@icloud.com)
-*   🧠  I'm learning Engineering and sicence
+*   🧠  [Linkedin](https://www.linkedin.com/in/nicol%C3%A1s-carratal%C3%A1-83b76013b/)
 *   🤝  I'm open to collaborating on Interesting projects
 *   ⚡  Walk to the future even if life sometimes costs a little
 
